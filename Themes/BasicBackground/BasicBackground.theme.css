@@ -45,11 +45,11 @@
 	--backdropblur:					unset;						/* default: unset				(blur in px, only works when --backdrop is set to an image)						*/
 	
 	--textbrightest: 				255,255,255;				/* default: 255,255,255			(text color for the brightest texts)											*/
-	--textbrighter: 				230,230,230;				/* default: 222,222,222			(text color for brighter texts)													*/
+	--textbrighter: 				235,235,235;				/* default: 222,222,222			(text color for brighter texts)													*/
 	--textbright: 					215,215,215;				/* default: 200,200,200			(text color for bright texts)													*/
-	--textdark: 					180,180,180;				/* default: 160,160,160			(text color for dark texts)														*/
-	--textdarker: 					160,160,160;				/* default: 125,125,125			(text color for darker texts)													*/
-	--textdarkest: 					140,140,140;					/* default: 90,90,90			(text color for the darkest texts)												*/
+	--textdark: 					190,190,190;				/* default: 160,160,160			(text color for dark texts)														*/
+	--textdarker: 					175,175,175;				/* default: 125,125,125			(text color for darker texts)													*/
+	--textdarkest: 					155,155,155;					/* default: 90,90,90			(text color for the darkest texts)												*/
 	
 	--version1_0_5:					none;						/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE														*/
 }
