@@ -27,7 +27,7 @@
 	
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
-	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
+	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
 	
 	--background:					url(https://cdn.discordapp.com/attachments/975630275734274061/1106438535810125834/87091975_p0_master1200.jpg);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
@@ -45,11 +45,11 @@
 	--backdropblur:					unset;						/* default: unset				(blur in px, only works when --backdrop is set to an image)						*/
 	
 	--textbrightest: 				255,255,255;				/* default: 255,255,255			(text color for the brightest texts)											*/
-	--textbrighter: 				235,235,235;				/* default: 222,222,222			(text color for brighter texts)													*/
-	--textbright: 					215,215,215;				/* default: 200,200,200			(text color for bright texts)													*/
-	--textdark: 					190,190,190;				/* default: 160,160,160			(text color for dark texts)														*/
-	--textdarker: 					175,175,175;				/* default: 125,125,125			(text color for darker texts)													*/
-	--textdarkest: 					155,155,155;					/* default: 90,90,90			(text color for the darkest texts)												*/
+	--textbrighter: 				222,222,222;				/* default: 222,222,222			(text color for brighter texts)													*/
+	--textbright: 					200,200,200;				/* default: 200,200,200			(text color for bright texts)													*/
+	--textdark: 					160,160,160;				/* default: 160,160,160			(text color for dark texts)														*/
+	--textdarker: 					125,125,125;				/* default: 125,125,125			(text color for darker texts)													*/
+	--textdarkest: 					90,90,90;					/* default: 90,90,90			(text color for the darkest texts)												*/
 	
 	--version1_0_5:					none;						/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE														*/
 }
